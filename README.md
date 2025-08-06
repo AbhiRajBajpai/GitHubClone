@@ -1,2 +1,2 @@
-# GitHubClone
-GitHub Clone – A full‑stack web app replicating core GitHub features like repository creation, commit tracking, and user authentication, built with React, Node.js, Express, and MongoDB.
+# Github
+A MERN based Github replica with custom version control implemented from scratch.
